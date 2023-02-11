@@ -1,7 +1,7 @@
 {
-  "id": "scout-foundry-bundle",
-  "title": "KDM Maps Scout Foundry Bundle",
-  "description": "A Collection of Supplementary Kingmaker Maps for Foundry VTT",
+  "id": "free-kingmaker-remakes",
+  "title": "KDM Maps Free Kingmaker Remakes",
+  "description": "A Collection of Free Kingmaker Map Remakes for Foundry VTT",
   "version": "#{VERSION}#",
   "library": "false",
   "manifestPlusVersion": "1.2.0",
@@ -18,12 +18,12 @@
   ],
   "packs": [
     {
-      "name": "adventure-1-kdm-scout-bundle",
-      "label": "KDM Scout Bundle (Shared)",
-      "path": "packs/adventure-1-kdm-scout-bundle.db",
+      "name": "adventure-1-kdm-remakes-bundle",
+      "label": "KDM Remakes Bundle (Shared)",
+      "path": "packs/adventure-1-kdm-remakes-bundle.db",
       "entity": "Adventure",
       "type": "Adventure",
-      "package": "forge-vtt-shared-compendiums-kdm-maps-scout-bundle"
+      "package": "forge-vtt-shared-compendiums-kdm-maps-free-remakes-bundle"
     }
   ],
   "relationships": {
