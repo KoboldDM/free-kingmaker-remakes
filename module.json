@@ -29,8 +29,8 @@
   "download": "#{DOWNLOAD}#",
   "license": "LICENSE",
   "readme": "README.md",
-  "minimumCoreVersion": "0.8.0",
-  "compatibleCoreVersion": "9",
+  "minimumCoreVersion": "0.9.0",
+  "compatibleCoreVersion": "10",
   "compatibility": {
     "minimum": 9,
     "verified": 10
