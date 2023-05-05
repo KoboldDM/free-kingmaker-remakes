@@ -116,7 +116,7 @@ jobs:
             module.json                          \
             README.md                            \
             LICENSE                              \
-            KDM Kingmaker Maps Package Thumbnail.png  \
+            "KDM Kingmaker Maps Package Thumbnail.png"  \
             scripts/                             \
             styles/                              \
             packs/                               \
