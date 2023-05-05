@@ -2,6 +2,9 @@
   "name": "kobold-dm-kingmaker-maps-remakes",
   "title": "Kobold DM Kingmaker Maps (Remakes)",
   "author": "Kobold DM",
+  "version": "#{VERSION}#",
+  "library": "false",
+  "manifestPlusVersion": "1.2.0",
   "description": "A collection of maps made for Kingmaker that remake Paizo's original work with overhead mapping, walling, lighting, and tiles alread",
   "packs": [
     {
@@ -18,8 +21,14 @@
   "authors": [
     {
       "name": "Kobold DM"
+      "discord": "Korvos#1609"
     }
   ],
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#",
+  "license": "LICENSE",
+  "readme": "README.md",
   "minimumCoreVersion": "0.8.0",
   "compatibleCoreVersion": "9",
   "compatibility": {
