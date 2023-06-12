@@ -1,7 +1,11 @@
 {
+  "name": "kobold-dm-kingmaker-maps-remakes",
   "title": "Kobold DM Kingmaker Maps (Remakes)",
-  "version": "2.1",
-  "description": "A collection of maps made for Kingmaker that remake Paizo's original work with overhead mapping, walling, lighting, and tiles alread",
+  "author": "Kobold DM",
+  "version": "#{VERSION}#",
+  "library": "false",
+  "manifestPlusVersion": "1.2.0",
+  "description": "A collection of maps made for Kingmaker that remake Paizo's original work with overhead mapping, walling, lighting, and tiles already done!",
   "packs": [
     {
       "name": "kdm-kingmaker-maps-remakes",
@@ -9,10 +13,10 @@
       "type": "Adventure",
       "system": "pf2e",
       "path": "packs/kdm-kingmaker-maps-remakes.db",
-      "private": false,
-      "flags": {}
+      "entity": "Adventure",
+      "module": "kobold-dm-kingmaker-maps-remakes"
     },
-    {
+	  {
 	"name": "temp-additions",
 	"label": "Temporary Additions",
 	"type": "Scene",
@@ -26,17 +30,18 @@
   "authors": [
     {
       "name": "Kobold DM",
-      "discord": "Korvos#1609",
-      "flags": {}
+      "discord": "Korvos#1609"
     }
   ],
-  "url": "https://github.com/KoboldDM/free-kingmaker-remakes",
-  "manifest": "https://github.com/KoboldDM/free-kingmaker-remakes/releases/latest/download/module.json",
-  "download": "https://github.com/KoboldDM/free-kingmaker-remakes/releases/download/v2.1/module.zip",
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#",
   "license": "LICENSE",
   "readme": "README.md",
+  "minimumCoreVersion": "0.9.0",
+  "compatibleCoreVersion": "10",
   "compatibility": {
-    "minimum": "9",
-    "verified": "10"
+    "minimum": 9,
+    "verified": 10
   }
 }
