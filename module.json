@@ -39,9 +39,9 @@
   "license": "LICENSE",
   "readme": "README.md",
   "minimumCoreVersion": "0.9.0",
-  "compatibleCoreVersion": "10",
+  "compatibleCoreVersion": "11",
   "compatibility": {
     "minimum": 9,
-    "verified": 10
+    "verified": 11
   }
 }
