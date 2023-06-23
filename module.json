@@ -12,7 +12,7 @@
       "label": "KDM Kingmaker Maps (Remakes)",
       "type": "Adventure",
       "system": "pf2e",
-      "path": "packs/kdm-kingmaker-maps-remakes",
+      "path": "packs/kdm-kingmaker-maps-remakes.db",
       "entity": "Adventure",
       "module": "kobold-dm-kingmaker-maps-remakes"
     },
@@ -39,9 +39,9 @@
   "license": "LICENSE",
   "readme": "README.md",
   "minimumCoreVersion": "0.9.0",
-  "compatibleCoreVersion": "11",
+  "compatibleCoreVersion": "10",
   "compatibility": {
     "minimum": 9,
-    "verified": 11
+    "verified": 10
   }
 }
