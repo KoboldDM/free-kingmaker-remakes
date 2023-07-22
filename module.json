@@ -1,11 +1,7 @@
 {
-  "name": "kobold-dm-kingmaker-maps-remakes",
   "title": "Kobold DM Kingmaker Maps (Remakes)",
-  "author": "Kobold DM",
-  "version": "#{VERSION}#",
-  "library": "false",
-  "manifestPlusVersion": "1.2.0",
-  "description": "A collection of maps made for Kingmaker that remake Paizo's original work with overhead mapping, walling, lighting, and tiles already done!",
+  "version": "2.2",
+  "description": "A collection of maps made for Kingmaker that remake Paizo's original work with overhead mapping, walling, lighting, and tiles alread",
   "packs": [
     {
       "name": "kdm-kingmaker-maps-remakes",
@@ -13,35 +9,34 @@
       "type": "Adventure",
       "system": "pf2e",
       "path": "packs/kdm-kingmaker-maps-remakes.db",
-      "entity": "Adventure",
-      "module": "kobold-dm-kingmaker-maps-remakes"
+      "private": false,
+      "flags": {}
     },
-	  {
-	"name": "temp-additions",
-	"label": "Temporary Additions",
-	"type": "Scene",
-	"system": "pf2e",
-	"path": "packs/temp-additions.db",
-	"private": false,
-	"flags": {}
+    {
+      "name": "temp-additions",
+      "label": "Temporary Additions",
+      "type": "Scene",
+      "system": "pf2e",
+      "path": "packs/temp-additions.db",
+      "private": false,
+      "flags": {}
     }
   ],
   "id": "kobold-dm-kingmaker-maps-remakes",
   "authors": [
     {
       "name": "Kobold DM",
-      "discord": "Korvos#1609"
+      "discord": "Korvos#1609",
+      "flags": {}
     }
   ],
-  "url": "#{URL}#",
-  "manifest": "#{MANIFEST}#",
-  "download": "#{DOWNLOAD}#",
+  "url": "https://github.com/KoboldDM/free-kingmaker-remakes",
+  "manifest": "https://github.com/KoboldDM/free-kingmaker-remakes/releases/latest/download/module.json",
+  "download": "https://github.com/KoboldDM/free-kingmaker-remakes/releases/download/v2.1/module.zip",
   "license": "LICENSE",
   "readme": "README.md",
-  "minimumCoreVersion": "0.9.0",
-  "compatibleCoreVersion": "10",
   "compatibility": {
-    "minimum": 9,
-    "verified": 10
+    "minimum": "9",
+    "verified": "11"
   }
 }
