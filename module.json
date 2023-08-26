@@ -1,6 +1,6 @@
 {
 	"title": "Kobold DM Kingmaker Maps (Remakes)",
-	"version": "3.0",
+	"version": "3.0.1",
 	"description": "A collection of maps made for Kingmaker that remake Paizo's original work with overhead mapping, walling, lighting, and tiles.",
 	"packFolders": [{
 		"name": "KDM Kingmaker Maps (Remakes)",
@@ -96,7 +96,7 @@
 	}],
 	"url": "https://github.com/KoboldDM/free-kingmaker-remakes",
 	"manifest": "https://github.com/KoboldDM/free-kingmaker-remakes/releases/latest/download/module.json",
-	"download": "https://github.com/KoboldDM/free-kingmaker-remakes/releases/download/v3.0/module.zip",
+	"download": "https://github.com/KoboldDM/free-kingmaker-remakes/releases/download/v3.0.1/module.zip",
 	"license": "LICENSE",
 	"readme": "README.md",
 	"compatibility": {
