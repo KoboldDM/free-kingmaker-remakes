@@ -1,6 +1,6 @@
 {
 	"title": "Kobold DM Kingmaker Maps (Remakes)",
-	"version": "3.0.1",
+	"version": "3.1",
 	"description": "A collection of maps made for Kingmaker that remake Paizo's original work with overhead mapping, walling, lighting, and tiles.",
 	"packFolders": [{
 		"name": "KDM Kingmaker Maps (Remakes)",
@@ -15,7 +15,8 @@
 			"6-sellen-hills",
 			"7-dunsward",
 			"8-nomen-heights",
-			"9-tors-of-levenies"
+			"9-tors-of-levenies",
+                        "10-hooktongue"
 		]
 	}],
 	"packs": [{
@@ -86,6 +87,12 @@
 			"label": "9. Tors of Levenies",
 			"path": "packs/9-tors-of-levenies",
 			"type": "Scene"
+		},
+		{
+			"name": "10-hooktongue",
+			"label": "10. Hooktongue",
+			"path": "packs/10-hooktongue",
+			"type": "Scene"
 		}
 	],
 	"id": "kobold-dm-kingmaker-maps-remakes",
@@ -96,7 +103,7 @@
 	}],
 	"url": "https://github.com/KoboldDM/free-kingmaker-remakes",
 	"manifest": "https://github.com/KoboldDM/free-kingmaker-remakes/releases/latest/download/module.json",
-	"download": "https://github.com/KoboldDM/free-kingmaker-remakes/releases/download/v3.0.1/module.zip",
+	"download": "https://github.com/KoboldDM/free-kingmaker-remakes/releases/download/v3.1/module.zip",
 	"license": "LICENSE",
 	"readme": "README.md",
 	"compatibility": {
