@@ -1,13 +1,14 @@
-2024/02/01-15:50:24.669 30ec Recovering log #12
-2024/02/01-15:50:24.671 30ec Delete type=0 #12
-2024/02/01-15:50:24.671 30ec Delete type=3 #11
-2024/02/01-15:50:49.271 4690 Level-0 table #16: started
-2024/02/01-15:50:49.271 4690 Level-0 table #16: 0 bytes OK
-2024/02/01-15:50:49.272 4690 Delete type=0 #14
-2024/02/01-15:50:49.274 4690 Manual compaction at level-0 from '!scenes!14tv0ZOhDh6L4zgY' @ 72057594037927935 : 1 .. '!scenes.walls!6VqEUJG0FtOA3LSl.zyDe9FbUP8TcFyx2' @ 0 : 0; will stop at '!scenes.walls!6VqEUJG0FtOA3LSl.zyDe9FbUP8TcFyx2' @ 634 : 1
-2024/02/01-15:50:49.274 4690 Compacting 1@0 + 0@1 files
-2024/02/01-15:50:49.277 4690 Generated table #17@0: 830 keys, 75380 bytes
-2024/02/01-15:50:49.277 4690 Compacted 1@0 + 0@1 files => 75380 bytes
-2024/02/01-15:50:49.278 4690 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/02/01-15:50:49.278 4690 Delete type=2 #5
-2024/02/01-15:50:49.278 4690 Manual compaction at level-0 from '!scenes.walls!6VqEUJG0FtOA3LSl.zyDe9FbUP8TcFyx2' @ 634 : 1 .. '!scenes.walls!6VqEUJG0FtOA3LSl.zyDe9FbUP8TcFyx2' @ 0 : 0; will stop at (end)
+2024/02/01-16:52:28.642 2410 Recovering log #22
+2024/02/01-16:52:28.645 2410 Delete type=0 #22
+2024/02/01-16:52:28.645 2410 Delete type=3 #20
+2024/02/01-17:41:41.925 3e90 Level-0 table #27: started
+2024/02/01-17:41:41.927 3e90 Level-0 table #27: 19777 bytes OK
+2024/02/01-17:41:41.928 3e90 Delete type=0 #25
+2024/02/01-17:41:41.932 3e90 Manual compaction at level-0 from '!scenes!14tv0ZOhDh6L4zgY' @ 72057594037927935 : 1 .. '!scenes.walls!6VqEUJG0FtOA3LSl.zyDe9FbUP8TcFyx2' @ 0 : 0; will stop at '!scenes!TKgIurVEkwmf36AM' @ 838 : 1
+2024/02/01-17:41:41.932 3e90 Compacting 1@0 + 1@1 files
+2024/02/01-17:41:41.936 3e90 Generated table #28@0: 830 keys, 75395 bytes
+2024/02/01-17:41:41.936 3e90 Compacted 1@0 + 1@1 files => 75395 bytes
+2024/02/01-17:41:41.938 3e90 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/02/01-17:41:41.938 3e90 Delete type=2 #17
+2024/02/01-17:41:41.938 3e90 Delete type=2 #27
+2024/02/01-17:41:41.946 3e90 Manual compaction at level-0 from '!scenes!TKgIurVEkwmf36AM' @ 838 : 1 .. '!scenes.walls!6VqEUJG0FtOA3LSl.zyDe9FbUP8TcFyx2' @ 0 : 0; will stop at (end)
