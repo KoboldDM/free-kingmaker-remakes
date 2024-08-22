@@ -1,6 +1,6 @@
 {
 	"title": "Kobold DM Kingmaker Maps (Remakes)",
-	"version": "3.5.2",
+	"version": "3.5.3",
 	"description": "A collection of maps made for Kingmaker that remake Paizo's original work with overhead mapping, walling, lighting, and tiles.",
 	"packFolders": [{
 		"name": "KDM Kingmaker Maps (Remakes)",
@@ -115,6 +115,6 @@
 	"readme": "README.md",
 	"compatibility": {
 		"minimum": "11",
-		"verified": "11"
+		"verified": "12"
 	}
 }
